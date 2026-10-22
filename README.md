@@ -1,2 +1,2 @@
 # diariasrama
-Diari Asrama
+DIARI Asrama Putri
